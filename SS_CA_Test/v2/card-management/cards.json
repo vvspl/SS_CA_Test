@@ -23,10 +23,10 @@
         }
       },
       "cardStatus": {
-        "status": "TERMINATED",
+        "status": "ACTIVE",
         "statusReason": ""
       },
-      "maskedPan": "414951******8202",
+      "maskedPan": "414951******8201",
       "creationDateTime": "2026-01-22T00:00:00.000000Z",
       "lastModifiedDateTime": "2026-06-12T12:42:08.709966Z",
       "expirationMonthYear": "06/25",
@@ -42,8 +42,8 @@
         "extendedState": "",
         "stopCodes": [
           {
-            "system": "IS_CARD",
-            "code": "102",
+            "system": "UPC",
+            "code": "827",
             "message": ""
           }
         ],
@@ -95,8 +95,8 @@
         "extendedState": "",
         "stopCodes": [
           {
-            "system": "IS_CARD",
-            "code": "102",
+            "system": "UPC",
+            "code": "16",
             "message": ""
           }
         ],
@@ -105,6 +105,128 @@
       },
       "cardId": "3698126b40d889d18fd337eb8dadca2c",
       "relatedProductId": "5932-2154"
+    },
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+      "productCode": "PI_CA02_421_336_UAH",
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+        "embossingLines": {
+          "embossingLine1": "HOROBETS OKSANA"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "ACTIVE",
+        "statusReason": ""
+      },
+      "maskedPan": "411997******9501",
+      "creationDateTime": "2025-11-27T00:00:00.000000Z",
+      "lastModifiedDateTime": "2025-11-27T08:42:05.491268Z",
+      "expirationMonthYear": "11/30",
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+      "isPinSet": false,
+      "isInstantCard": false,
+      "customParameters": {
+        "cardProductToken": "85",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "136074340",
+        "userToken": "12809829",
+        "stateType": "online",
+        "extendedState": "PIN_IS_NOT_SET",
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+            "code": "103"
+          },
+          {
+            "system": "UPC",
+            "code": "827",
+            "codeType": "hotCode",
+            "message": "NON-ACTIVATED CARD"
+          },
+          {
+            "system": "UPC",
+            "code": "16",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO"
+      },
+      "cardId": "5c6a7239efa88a5db8d43bcc54a34b9e",
+      "relatedProductId": "5722-1"
+    },
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+      "productCode": "PI_CA02_421_336_UAH",
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+        "embossingLines": {
+          "embossingLine1": "HOROBETS OKSANA"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "ACTIVE",
+        "statusReason": ""
+      },
+      "maskedPan": "411997******9502",
+      "creationDateTime": "2025-11-27T00:00:00.000000Z",
+      "lastModifiedDateTime": "2025-11-27T08:42:05.491268Z",
+      "expirationMonthYear": "11/30",
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+      "isPinSet": false,
+      "isInstantCard": false,
+      "customParameters": {
+        "cardProductToken": "85",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "136074340",
+        "userToken": "12809829",
+        "stateType": "online",
+        "extendedState": "PIN_IS_NOT_SET",
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+            "code": "103"
+          },
+          {
+            "system": "UPC",
+            "code": "827",
+            "codeType": "hotCode",
+            "message": "NON-ACTIVATED CARD"
+          },
+          {
+            "system": "UPC",
+            "code": "16",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO"
+      },
+      "cardId": "5c6a7239efa88a5db8d43bcc54a34b9e",
+      "relatedProductId": "5722-1"
     }
   ],
   "metadata": {

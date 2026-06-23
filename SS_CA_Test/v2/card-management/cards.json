@@ -43,7 +43,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "827",
+            "code": "16",
             "message": ""
           }
         ],
@@ -76,7 +76,7 @@
         }
       },
       "cardStatus": {
-        "status": "TERMINATED",
+        "status": "ACTIVE",
         "statusReason": ""
       },
       "maskedPan": "414951******8202",
@@ -128,10 +128,10 @@
         }
       },
       "cardStatus": {
-        "status": "ACTIVE",
+        "status": "UNACTIVATED",
         "statusReason": ""
       },
-      "maskedPan": "411997******9501",
+      "maskedPan": "411997******8203",
       "creationDateTime": "2025-11-27T00:00:00.000000Z",
       "lastModifiedDateTime": "2025-11-27T08:42:05.491268Z",
       "expirationMonthYear": "11/30",
@@ -192,7 +192,7 @@
         "status": "ACTIVE",
         "statusReason": ""
       },
-      "maskedPan": "411997******9502",
+      "maskedPan": "411997******8204",
       "creationDateTime": "2025-11-27T00:00:00.000000Z",
       "lastModifiedDateTime": "2025-11-27T08:42:05.491268Z",
       "expirationMonthYear": "11/30",
@@ -211,6 +211,63 @@
             "system": "IS_CARD",
             "code": "103"
           },
+          {
+            "system": "UPC",
+            "code": "915",
+            "codeType": "hotCode",
+            "message": "NON-ACTIVATED CARD"
+          },
+          {
+            "system": "UPC",
+            "code": "16",
+            "codeType": "softCode"
+          }
+        ],
+        "isNationalCashback": "NO"
+      },
+      "cardId": "5c6a7239efa88a5db8d43bcc54a34b9e",
+      "relatedProductId": "5722-1"
+    },
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+      "productCode": "PI_CA02_421_336_UAH",
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+        "embossingLines": {
+          "embossingLine1": "HOROBETS OKSANA"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "SUSPENDED",
+        "statusReason": "Decline, suspected fraud"
+      },
+      "maskedPan": "411997******8205",
+      "creationDateTime": "2025-11-27T00:00:00.000000Z",
+      "lastModifiedDateTime": "2025-11-27T08:42:05.491268Z",
+      "expirationMonthYear": "11/30",
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+      "isPinSet": false,
+      "isInstantCard": false,
+      "customParameters": {
+        "cardProductToken": "85",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "136074340",
+        "userToken": "12809829",
+        "stateType": "online",
+        "extendedState": "PIN_IS_NOT_SET",
+        "stopCodes": [
           {
             "system": "UPC",
             "code": "827",

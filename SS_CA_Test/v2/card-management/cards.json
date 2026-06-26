@@ -42,8 +42,8 @@
         "extendedState": "",
         "stopCodes": [
           {
-            "system": "UPC",
-            "code": "827",
+            "system": "IS_CARD",
+            "code": "16",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

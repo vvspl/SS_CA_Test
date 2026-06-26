@@ -24,7 +24,7 @@
       },
       "cardStatus": {
         "status": "SUSPENDED",
-        "statusReason": "Decline, suspected fraud"
+        "statusReason": ""
       },
       "maskedPan": "414951******8201",
       "creationDateTime": "2026-01-22T00:00:00.000000Z",
@@ -43,7 +43,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "915",
+            "code": "827",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

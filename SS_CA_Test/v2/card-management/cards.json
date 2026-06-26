@@ -24,7 +24,7 @@
       },
       "cardStatus": {
         "status": "SUSPENDED",
-        "statusReason": ""
+        "statusReason": "Decline, suspected fraud"
       },
       "maskedPan": "414951******8201",
       "creationDateTime": "2026-01-22T00:00:00.000000Z",

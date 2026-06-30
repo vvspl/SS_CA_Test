@@ -151,7 +151,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "915",
+            "code": "16",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

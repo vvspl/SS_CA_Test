@@ -97,8 +97,9 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "16",
-            "message": ""
+            "code": "827",
+            "codeType": "hotCode",
+            "message": "NON-ACTIVATED CARD"
           }
         ],
         "isNationalCashback": "NA",
@@ -150,7 +151,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "16",
+            "code": "915",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

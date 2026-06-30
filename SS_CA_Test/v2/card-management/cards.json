@@ -23,7 +23,7 @@
         }
       },
       "cardStatus": {
-        "status": "SUSPENDED",
+        "status": "UNACTIVATED",
         "statusReason": "Decline, suspected fraud"
       },
       "maskedPan": "414951******8201",

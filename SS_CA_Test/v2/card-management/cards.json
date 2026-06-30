@@ -97,7 +97,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "165",
+            "code": "16",
             "message": ""
           }
         ],
@@ -150,7 +150,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "165",
+            "code": "16",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

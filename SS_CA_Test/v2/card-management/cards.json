@@ -23,10 +23,10 @@
         }
       },
       "cardStatus": {
-        "status": "ACTIVE",
+        "status": "SUSPENDED",
         "statusReason": "Decline, suspected fraud"
       },
-      "maskedPan": "414951******8202",
+      "maskedPan": "414951******8201",
       "creationDateTime": "2026-01-22T00:00:00.000000Z",
       "lastModifiedDateTime": "2026-06-12T12:42:08.709966Z",
       "expirationMonthYear": "06/25",
@@ -43,7 +43,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "16",
+            "code": "827",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }
@@ -80,6 +80,59 @@
         "status": "ACTIVE",
         "statusReason": "Decline, suspected fraud"
       },
+      "maskedPan": "414951******8202",
+      "creationDateTime": "2026-01-22T00:00:00.000000Z",
+      "lastModifiedDateTime": "2026-06-12T12:42:08.709966Z",
+      "expirationMonthYear": "06/25",
+      "expirationDateTime": "2025-06-30T20:59:59.000000Z",
+      "isPinSet": true,
+      "isInstantCard": true,
+      "customParameters": {
+        "cardProductToken": "336",
+        "cardSystem": "IS_CARD",
+        "cardInternalId": "43960",
+        "userToken": "12153895",
+        "stateType": "online",
+        "extendedState": "",
+        "stopCodes": [
+          {
+            "system": "UPC",
+            "code": "16",
+            "message": ""
+          }
+        ],
+        "isNationalCashback": "NA",
+        "phoneNumber3ds": "+380991234567"
+      },
+      "cardId": "3698126b40d889d18fd337eb8dadca2c",
+      "relatedProductId": "5932-2154"
+    },
+    {
+      "cardOwner": {
+        "customerId": "12153895"
+      },
+      "productCode": "PI_CA02_421_336_UAH",
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262004027176",
+        "currencies": ["UAH"]
+      },
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Instant",
+          "uri": "https://channels-web.uat.apps.test-avalaunch.aval/assets/cards/ATB_414951009_01042021.png"
+        },
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+        "fulfillment": {
+          "status": "UNKNOWN",
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+      "cardStatus": {
+        "status": "ACTIVE",
+        "statusReason": ""
+      },
       "maskedPan": "414951******8203",
       "creationDateTime": "2026-01-22T00:00:00.000000Z",
       "lastModifiedDateTime": "2026-06-12T12:42:08.709966Z",
@@ -96,8 +149,8 @@
         "extendedState": "",
         "stopCodes": [
           {
-            "system": "UP",
-            "code": "165",
+            "system": "UPC",
+            "code": "16",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

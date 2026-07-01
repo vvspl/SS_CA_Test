@@ -43,7 +43,7 @@
         "stopCodes": [
           {
             "system": "UPC",
-            "code": "827",
+            "code": "16",
             "codeType": "hotCode",
             "message": "NON-ACTIVATED CARD"
           }

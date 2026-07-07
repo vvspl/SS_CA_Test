@@ -1,61 +1,354 @@
 {
-  "cards": [
+  "clients": [
     {
-      "cardOwner": {
-        "customerId": "12153895"
-      },
-      "productCode": "PI_CA02_421_336_UAH",
-      "cardIssuingContract": {
-        "iban": "UA023003350000000262004027176",
-        "currencies": ["UAH"]
-      },
-      "physicalCard": {
-        "design": {
-          "code": "Visa ATB Instant",
-          "uri": "https://channels-web.uat.apps.test-avalaunch.aval/assets/cards/ATB_414951009_01042021.png"
+      "customerId": "7820620",
+      "status": "RED",
+      "partyType": "LE",
+      "segmentId": "P",
+      "country": "804",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "branch": "0217",
+      "residency": "1",
+      "dateLastIdent": "2025-05-05",
+      "dateNextIdent": "2028-05-04",
+      "fisa": "N",
+      "isPep": "N",
+      "aml": "2",
+      "ofz": "N",
+      "riskAddCriteria": "DECREASING",
+      "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЬ \"АСТРА ГАЗ\"",
+        "shortName": "ТОВ \"АСТРА ГАЗ\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNIST \"ASTRA HAZ\"",
+          "shortName": "TOV \"ASTRA HAZ\""
         },
-        "embossingLines": {
-          "embossingLine1": "ANONYMOUS"
-        },
-        "fulfillment": {
-          "status": "UNKNOWN",
-          "extendedStatus": "UNKNOWN"
-        }
-      },
-      "cardStatus": {
-        "status": "ACTIVE",
-        "statusReason": "Decline, suspected fraud"
-      },
-      "maskedPan": "414951******8201",
-      "creationDateTime": "2026-01-22T00:00:00.000000Z",
-      "lastModifiedDateTime": "2026-06-12T12:42:08.709966Z",
-      "expirationMonthYear": "06/25",
-      "expirationDateTime": "2025-06-30T20:59:59.000000Z",
-      "isPinSet": true,
-      "isInstantCard": true,
-      "customParameters": {
-        "cardProductToken": "336",
-        "cardSystem": "IS_CARD",
-        "cardInternalId": "43960",
-        "userToken": "12153895",
-        "stateType": "online",
-        "extendedState": "",
-        "stopCodes": [
+        "regCode": "40110498",
+        "communicationChannels": [
           {
-            "system": "UPC",
-            "code": "20",
-            "codeType": "hotCode",
-            "message": "NON-ACTIVATED CARD"
+            "id": "28335017",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "28335018",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "28335019",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
           }
-        ],
-        "isNationalCashback": "NA",
-        "phoneNumber3ds": "+380991234567"
+        ]
       },
-      "cardId": "3698126b40d889d18fd337eb8dadca2c",
-      "relatedProductId": "5932-2154"
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "city": "МАЛА БУШИНКА",
+          "cityType": "СЕЛ."
+        },
+        {
+          "addressType": "POST",
+          "country": "804",
+          "city": "Гвоздівка",
+          "cityType": "С."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3022482",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "381780",
+          "partyType": "LE",
+          "system": "G-REC"
+        }
+      ],
+      "managers": []
+    },
+    {
+      "customerId": "7910234",
+      "segmentId": "P",
+      "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ВЕСТ ТАЙП\"",
+        "shortName": "ТОВ \"ВЕСТ ТАЙП\"",
+        "regCode": "42676303",
+        "communicationChannels": [
+          {
+            "id": "29134075",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29134076",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29134077",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "39469279",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          }
+        ]
+      },
+      "links": [
+        {
+          "customerId": "3070449",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "bf8a0301-7640-4050-9c6a-21806e5cfe19",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "16315305",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
+      "managers": [
+        {
+          "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1F2Z",
+          "roleId": "12"
+        }
+      ]
+    },
+    {
+      "customerId": "7910487",
+      "segmentId": "M",
+      "party": {
+        "shortName": "ТОВ \"ОНТЕР ПРОМ\"",
+        "regCode": "42548489",
+        "communicationChannels": [
+          {
+            "id": "29134945",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29134946",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29134947",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "39469517",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          }
+        ]
+      },
+      "managers": [
+        {
+          "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1F2Z",
+          "roleId": "14"
+        }
+      ]
+    },
+    {
+      "customerId": "7910711",
+      "segmentId": "L",
+      "party": {
+        "shortName": "ТОВ \"АФІРМГРУП\"",
+        "regCode": "42245000",
+        "communicationChannels": [
+          {
+            "id": "29135655",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29135656",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29135657",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "39469721",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          }
+        ]
+      },
+      "managers": [
+        {
+          "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1F2Z",
+          "roleId": "2"
+        }
+      ]
+    },
+    {
+      "customerId": "7964117",
+      "segmentId": "P",
+      "party": {
+        "shortName": "ТОВ \"ДЕТОРІС-ТРЕЙД ГРУП\"",
+        "regCode": "41917860",
+        "communicationChannels": [
+          {
+            "id": "29486453",
+            "phone": "0505902178",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29486454",
+            "phone": "000000000",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29486455",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "39470789",
+            "phone": "0505902178",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          }
+        ]
+      },
+      "managers": [
+        {
+          "relationshipManagerEmail": "nataliia.grebeniuk@aval.ua",
+          "isActive": "true",
+          "relationshipManagerId": "NGREBENIUK",
+          "roleId": "5"
+        }
+      ]
+    },
+    {
+      "customerId": "7964388",
+      "segmentId": "P",
+      "party": {
+        "shortName": "ТОВ \"АГРО-ФАВОРИТ ГРУП\"",
+        "regCode": "41916652",
+        "communicationChannels": [
+          {
+            "id": "29488811",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29488812",
+            "phone": "000000000",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29488813",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "39470792",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          }
+        ]
+      },
+      "managers": [
+        {
+          "relationshipManagerEmail": "tetiana.gaivyshyna@aval.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0QY8",
+          "roleId": "2"
+        }
+      ]
     }
-  ],
-  "metadata": {
-    "size": 1
-  }
+  ]
 }

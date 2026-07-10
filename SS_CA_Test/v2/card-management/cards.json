@@ -2,29 +2,10 @@
   "clients": [
     {
       "customerId": "7820620",
-      "status": "RED",
-      "partyType": "LE",
       "segmentId": "P",
-      "country": "804",
-      "active": true,
-      "bmClnClass": "80",
-      "bmClnType": "09",
-      "branch": "0217",
-      "residency": "1",
-      "dateLastIdent": "2025-05-05",
-      "dateNextIdent": "2028-05-04",
-      "fisa": "N",
-      "isPep": "N",
-      "aml": "2",
-      "ofz": "N",
-      "riskAddCriteria": "DECREASING",
       "party": {
         "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЬ \"АСТРА ГАЗ\"",
         "shortName": "ТОВ \"АСТРА ГАЗ\"",
-        "transliteratedNames": {
-          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNIST \"ASTRA HAZ\"",
-          "shortName": "TOV \"ASTRA HAZ\""
-        },
         "regCode": "40110498",
         "communicationChannels": [
           {
@@ -53,33 +34,6 @@
           }
         ]
       },
-      "documents": [],
-      "addresses": [
-        {
-          "addressType": "LEGAL",
-          "country": "804",
-          "city": "МАЛА БУШИНКА",
-          "cityType": "СЕЛ."
-        },
-        {
-          "addressType": "POST",
-          "country": "804",
-          "city": "Гвоздівка",
-          "cityType": "С."
-        }
-      ],
-      "links": [
-        {
-          "customerId": "3022482",
-          "partyType": "LE",
-          "system": "BM"
-        },
-        {
-          "customerId": "381780",
-          "partyType": "LE",
-          "system": "G-REC"
-        }
-      ],
       "managers": []
     },
     {
@@ -124,23 +78,6 @@
           }
         ]
       },
-      "links": [
-        {
-          "customerId": "3070449",
-          "partyType": "LE",
-          "system": "BM"
-        },
-        {
-          "customerId": "bf8a0301-7640-4050-9c6a-21806e5cfe19",
-          "partyType": "LE",
-          "system": "aCRM"
-        },
-        {
-          "customerId": "16315305",
-          "partyType": "LE",
-          "system": "R_INFO"
-        }
-      ],
       "managers": [
         {
           "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",

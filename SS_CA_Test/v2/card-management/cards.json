@@ -80,7 +80,7 @@
       },
       "managers": [
         {
-          "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1F2Z",
           "roleId": "12"
@@ -130,7 +130,13 @@
       },
       "managers": [
         {
-          "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1F2Z",
+          "roleId": "10"
+        },
+        {
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1F2Z",
           "roleId": "14"
@@ -280,10 +286,10 @@
       },
       "managers": [
         {
-          "relationshipManagerEmail": "tetiana.gaivyshyna@aval.ua",
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
-          "roleId": "2"
+          "roleId": "15"
         }
       ]
     }

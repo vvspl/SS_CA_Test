@@ -9,27 +9,57 @@
         "regCode": "40110498",
         "communicationChannels": [
           {
-            "id": "28335017",
-            "phone": "0689672983",
+            "id": "37912636",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "САЧУК ОЛЕНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "28335018",
-            "phone": "0689672983",
+            "id": "37912637",
+            "phone": "0504154144",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "САЧУК ОЛЕНА",
+            "purpose": "MAIN_PRIVATE",
+            "status": "VALID"
+          },
+          {
+            "id": "37912638",
+            "phone": "0445865124",
             "activeNotificationChannel": "CALL",
             "type": "DOMESTIC_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕСАНДРОВИЧ ",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "28335019",
-            "phone": "0689672983",
+            "id": "39292334",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "purpose": "MAIN_PRIVATE",
+            "description": "САЧУК ОЛЕНА",
+            "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          },
+          {
+            "id": "41207516",
+            "email": "esachuk@disna.ua",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "description": "САЧУК ОЛЕНА",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "42841784",
+            "phone": "0504640266",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "description": "бухгалтер",
+            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
@@ -45,35 +75,57 @@
         "regCode": "42676303",
         "communicationChannels": [
           {
-            "id": "29134075",
-            "phone": "0689672983",
-            "activeNotificationChannel": "CALL",
-            "type": "MOBILE_PHONE",
+            "id": "28172271",
+            "email": "adam.co@ukr.net",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "description": "ОФІС",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "29134076",
-            "phone": "0689672983",
+            "id": "28172275",
+            "phone": "0503529835",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "28172277",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "DOMESTIC_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "29134077",
-            "phone": "0689672983",
+            "id": "28172279",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39469279",
-            "phone": "0689672983",
+            "id": "39380707",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          },
+          {
+            "id": "42845014",
+            "phone": "0504154144",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
+            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
@@ -95,35 +147,65 @@
         "regCode": "42548489",
         "communicationChannels": [
           {
-            "id": "29134945",
-            "phone": "0689672983",
+            "id": "28251934",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "29134946",
-            "phone": "0689672983",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "29134947",
-            "phone": "0689672983",
+            "id": "38044495",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "САВЧУК ОЛЕНА",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39469517",
-            "phone": "0689672983",
+            "id": "38044496",
+            "phone": "0504154144",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39426329",
+            "phone": "0503529835",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
             "purpose": "ANTI_FRAUD",
+            "status": "VALID"
+          },
+          {
+            "id": "41862784",
+            "phone": "0976672833",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "description": "ЛЕВАДНА ТЕТЯНА АНАТОЛІЇВНА",
+            "purpose": "FINANCE",
+            "status": "VALID"
+          },
+          {
+            "id": "42845775",
+            "email": "esachuk@disna.ua",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "42845776",
+            "phone": "0504154144",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
+            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
@@ -151,35 +233,57 @@
         "regCode": "42245000",
         "communicationChannels": [
           {
-            "id": "29135655",
-            "phone": "0689672983",
+            "id": "39857433",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІВНА (КОМУНІКАЦІЯ З БАНКОМ)",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "29135656",
-            "phone": "0689672983",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "29135657",
-            "phone": "0689672983",
+            "id": "39857434",
+            "phone": "0976672833",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "ЛЕВАДНА ТЕТЯНА АНАТОЛІЇВНА (ЩОДО ПЛАТЕЖІВ)",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39469721",
-            "phone": "0689672983",
+            "id": "39857435",
+            "phone": "0504154144",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "description": "ОЛЕНА ЄВГЕНІВНА",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39857436",
+            "email": "ESavchuk@disna.ua",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІВНА",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39857437",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "purpose": "ANTI_FRAUD",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІВНА",
+            "purpose": "CHATBOT",
+            "status": "VALID"
+          },
+          {
+            "id": "42845477",
+            "phone": "0504154144",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
+            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
@@ -201,35 +305,39 @@
         "regCode": "41917860",
         "communicationChannels": [
           {
-            "id": "29486453",
-            "phone": "0505902178",
+            "id": "39858546",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "29486454",
-            "phone": "000000000",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "29486455",
-            "phone": "0689672983",
+            "id": "39858547",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39470789",
-            "phone": "0505902178",
+            "id": "39858548",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
-            "type": "MOBILE_PHONE",
-            "purpose": "ANTI_FRAUD",
+            "type": "DOMESTIC_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "39858549",
+            "email": "akaplan@disna.ua",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
+            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
@@ -251,35 +359,38 @@
         "regCode": "41916652",
         "communicationChannels": [
           {
-            "id": "29488811",
-            "phone": "0689672983",
+            "id": "44722081",
+            "phone": "0503529835",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ  AKAPLAN@DISNA.UA",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "29488812",
-            "phone": "000000000",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "29488813",
-            "phone": "0689672983",
+            "id": "44722082",
+            "phone": "0503529835",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ  AKAPLAN@DISNA.UA",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39470792",
-            "phone": "0689672983",
+            "id": "44722083",
+            "phone": "0504154144",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "purpose": "ANTI_FRAUD",
+            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА  ESACHUK@DISNA.UA",
+            "purpose": "FINANCE",
+            "status": "VALID"
+          },
+          {
+            "id": "44722084",
+            "email": "esachuk@disna.ua",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]

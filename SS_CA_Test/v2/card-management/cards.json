@@ -183,7 +183,7 @@
           },
           {
             "id": "41862784",
-            "phone": "0976672833",
+            "phone": "0991234567",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
             "description": "ЛЕВАДНА ТЕТЯНА АНАТОЛІЇВНА",
@@ -192,10 +192,11 @@
           },
           {
             "id": "42845775",
+            "phone": "0689672983",
             "email": "esachuk@disna.ua",
             "activeNotificationChannel": "EMAIL",
             "type": "EMAIL",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
+            "description": "САЧУКC ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },

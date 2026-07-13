@@ -385,14 +385,6 @@
             "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА  ESACHUK@DISNA.UA",
             "purpose": "FINANCE",
             "status": "VALID"
-          },
-          {
-            "id": "44722084",
-            "email": "esachuk@disna.ua",
-            "activeNotificationChannel": "EMAIL",
-            "type": "EMAIL",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
           }
         ]
       },

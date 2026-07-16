@@ -1,0 +1,139 @@
+{
+  "clients": [
+    {
+      "customerId": "12153895",
+      "party": {
+        "name": {
+          "firstName": "ВЕНА",
+          "lastName": "НАЗАРЕНКО",
+          "middleName": "ХАФІСОВНА"
+        },
+        "nameInLatin": {
+          "firstName": "VENA",
+          "lastName": "NAZARENKO",
+          "middleName": "KHAFISOVNA"
+        },
+        "birth": {
+          "date": "1942-03-29"
+        },
+        "communicationChannels": [
+          {
+            "id": "38687524",
+            "phone": "0991234567",
+            "activeNotificationChannel": "CALL",
+            "type": "MOBILE_PHONE",
+            "purpose": "MOBILE_BANKING",
+            "status": "VERIFIED"
+          }
+        ]
+      },
+      "phone": "0991234567",
+      "taxId": "1542805781",
+      "phoneVerify": true,
+      "verifyCode": "BODILY",
+      "verifyDate": "2021-07-07",
+      "status": "GREEN",
+      "active": true,
+      "partyType": "PI",
+      "segmentId": "F",
+      "country": "804",
+      "nextDateIndent": "2030-05-04",
+      "serviceType": "STANDART_BRANCH",
+      "publicPerson": "PI_00",
+      "documents": [
+        {
+          "serialNumber": "ЕЯ",
+          "id": "641635",
+          "type": "00",
+          "issuingAuthority": "МЕЛІТОПОЛЬСЬКИМ МВ УМВС УКРАЇНИ В ЗАПОРІЗЬКІЙ ОБЛАСТІ",
+          "mainType": "false"
+        }
+      ],
+      "addresses": [
+        {
+          "addressType": "LIVE",
+          "country": "804",
+          "region": "ЗАПОРІЗЬКА",
+          "city": "Бахмач",
+          "cityType": "СМТ"
+        },
+        {
+          "addressType": "REG",
+          "country": "804",
+          "region": "ЗАПОРІЗЬКА",
+          "city": "Вільна Тарасівка",
+          "cityType": "С."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "10705323",
+          "partyType": "PI",
+          "system": "R_INFO"
+        },
+        {
+          "customerId": "d399963e-1dde-461a-ace8-982da0c3402e",
+          "partyType": "PI",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "4651381",
+          "partyType": "PI",
+          "system": "IB"
+        },
+        {
+          "customerId": "3460356",
+          "partyType": "PI",
+          "system": "BM"
+        },
+        {
+          "customerId": "115650",
+          "partyType": "PI",
+          "system": "IS-CARD"
+        },
+        {
+          "customerId": "0b0011ee158e5e0d",
+          "system": "DMS"
+        }
+      ],
+      "managers": [
+        {
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0UIP",
+          "roleId": "13"
+        },
+        {
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD018L",
+          "roleId": "15"
+        },
+        {
+          "relationshipManagerEmail": "ganna.cherutsia@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD13FY",
+          "roleId": "6"
+        },
+        {
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0PU3",
+          "roleId": "14"
+        },
+        {
+          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD103Y",
+          "roleId": "12"
+        },
+        {
+          "relationshipManagerEmail": "halyna.yurovych@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1C4P",
+          "roleId": "16"
+        }
+      ]
+    }
+  ]
+}

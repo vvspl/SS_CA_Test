@@ -1,0 +1,2 @@
+https://vvspl.github.io/SS_CA_Test/SS_CA_Test/v2/card-management/cards.json
+https://vvspl.github.io/SS_CA_Test/SS_CA_Test/v2/card-management/clients_PI.json

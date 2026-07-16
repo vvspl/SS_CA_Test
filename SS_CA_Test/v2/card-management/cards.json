@@ -116,6 +116,7 @@
             "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "СВІТЛАНА ОЛЕГІВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
@@ -179,10 +180,46 @@
       ],
       "managers": [
         {
-          "relationshipManagerEmail": "maryna.chernyshenko@raiffeisen.ua",
+          "relationshipManagerEmail": "olena.glushko@raiffeisen.ua",
           "isActive": "true",
-          "relationshipManagerId": "IUAD1F2Z",
-          "roleId": "2"
+          "relationshipManagerId": "IUAD0UIP",
+          "roleId": "7"
+        },
+        {
+          "relationshipManagerEmail": "iryna.yastremska@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0K0M",
+          "roleId": "11"
+        },
+        {
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD018L",
+          "roleId": "15"
+        },
+        {
+          "relationshipManagerEmail": "ganna.cherutsia@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD13FY",
+          "roleId": "6"
+        },
+        {
+          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0PU3",
+          "roleId": "14"
+        },
+        {
+          "relationshipManagerEmail": "olena.kyrylenko@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD103Y",
+          "roleId": "5"
+        },
+        {
+          "relationshipManagerEmail": "vita.kasianchuk@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD1J70",
+          "roleId": "13"
         }
       ]
     },
@@ -484,7 +521,7 @@
       "customerId": "7964388",
       "status": "YELLOW",
       "partyType": "LE",
-      "segmentId": "P",
+      "segmentId": "G",
       "country": "804",
       "serviceType": "VIRTUAL_BRANCH",
       "verifyCode": "NOT_VERIF",

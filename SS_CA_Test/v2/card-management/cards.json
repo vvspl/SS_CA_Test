@@ -192,7 +192,7 @@
           "roleId": "11"
         },
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD018L",
           "roleId": "15"
@@ -204,7 +204,7 @@
           "roleId": "6"
         },
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0PU3",
           "roleId": "14"
@@ -216,7 +216,7 @@
           "roleId": "5"
         },
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "relationshipManagerEmail": "vita.kasianchuk@raiffeisen.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1J70",
           "roleId": "13"
@@ -608,7 +608,7 @@
           "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
-          "roleId": "11"
+          "roleId": "12"
         }
       ]
     }

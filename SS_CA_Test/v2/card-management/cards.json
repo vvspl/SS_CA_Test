@@ -2,297 +2,417 @@
   "clients": [
     {
       "customerId": "7820620",
+      "status": "RED",
+      "partyType": "LE",
       "segmentId": "P",
+      "country": "804",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "branch": "0217",
+      "residency": "1",
+      "dateLastIdent": "2018-09-21",
+      "dateNextIdent": "2021-09-20",
+      "aml": "2",
       "party": {
         "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЬ \"АСТРА ГАЗ\"",
         "shortName": "ТОВ \"АСТРА ГАЗ\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNIST \"ASTRA HAZ\"",
+          "shortName": "TOV \"ASTRA HAZ\""
+        },
         "regCode": "40110498",
         "communicationChannels": [
           {
-            "id": "37912636",
-            "phone": "0504154144",
+            "id": "28335017",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "37912637",
-            "phone": "0504154144",
+            "id": "28335018",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "28335019",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА",
             "purpose": "MAIN_PRIVATE",
-            "status": "VALID"
-          },
-          {
-            "id": "37912638",
-            "phone": "0445865124",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕСАНДРОВИЧ ",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "39292334",
-            "phone": "0504154144",
-            "activeNotificationChannel": "CALL",
-            "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА",
-            "purpose": "ANTI_FRAUD",
-            "status": "VALID"
-          },
-          {
-            "id": "41207516",
-            "email": "esachuk@disna.ua",
-            "activeNotificationChannel": "EMAIL",
-            "type": "EMAIL",
-            "description": "САЧУК ОЛЕНА",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "42841784",
-            "phone": "0504640266",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "бухгалтер",
-            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
       },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "city": "Київ",
+          "cityType": "М."
+        },
+        {
+          "addressType": "POST",
+          "country": "804",
+          "city": "Київ",
+          "cityType": "М."
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3022482",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "381780",
+          "partyType": "LE",
+          "system": "G-REC"
+        },
+        {
+          "customerId": "12974236",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
       "managers": []
     },
     {
       "customerId": "7910234",
+      "status": "YELLOW",
+      "partyType": "LE",
       "segmentId": "P",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "BODILY",
+      "verifyDate": "2019-02-27",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "0001",
+      "residency": "1",
+      "dateLastIdent": "2019-02-27",
+      "dateNextIdent": "2024-02-26",
+      "aml": "1",
+      "subSegmentName": "(1) Business Mass",
       "party": {
         "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ВЕСТ ТАЙП\"",
         "shortName": "ТОВ \"ВЕСТ ТАЙП\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"VEST TAIP\"",
+          "shortName": "TOV \"VEST TAIP\""
+        },
         "regCode": "42676303",
         "communicationChannels": [
           {
-            "id": "28172271",
-            "email": "adam.co@ukr.net",
-            "activeNotificationChannel": "EMAIL",
-            "type": "EMAIL",
-            "description": "ОФІС",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "28172275",
-            "phone": "0503529835",
+            "id": "29134075",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
+            "description": "СВІТЛАНА ОЛЕГІВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "28172277",
-            "phone": "0504154144",
+            "id": "29134076",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "DOMESTIC_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "28172279",
-            "phone": "0504154144",
+            "id": "29134077",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39380707",
-            "phone": "0504154144",
+            "id": "39469279",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "ANTI_FRAUD",
-            "status": "VALID"
-          },
-          {
-            "id": "42845014",
-            "phone": "0504154144",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
-            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
       },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "region": "СУМСЬКА ОБЛАСТЬ",
+          "city": "М. СУМИ"
+        },
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "region": "СУМСЬКА ОБЛАСТЬ",
+          "city": "М. СУМИ"
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3070449",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "bf8a0301-7640-4050-9c6a-21806e5cfe19",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "12774874",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
       "managers": [
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "relationshipManagerEmail": "olena.glushko@raiffeisen.ua",
           "isActive": "true",
-          "relationshipManagerId": "IUAD1F2Z",
+          "relationshipManagerId": "IUAD0UIP",
+          "roleId": "7"
+        },
+        {
+          "relationshipManagerEmail": "iryna.yastremska@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0K0M",
+          "roleId": "11"
+        },
+        {
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD018L",
+          "roleId": "15"
+        },
+        {
+          "relationshipManagerEmail": "ganna.cherutsia@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD13FY",
+          "roleId": "6"
+        },
+        {
+          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD0PU3",
           "roleId": "14"
+        },
+        {
+          "relationshipManagerEmail": "olena.kyrylenko@raiffeisen.ua",
+          "isActive": "true",
+          "relationshipManagerId": "IUAD103Y",
+          "roleId": "5"
         }
       ]
     },
     {
       "customerId": "7910487",
-      "segmentId": "M",
+      "status": "YELLOW",
+      "partyType": "LE",
+      "segmentId": "P",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "BODILY",
+      "verifyDate": "2019-02-05",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "0001",
+      "residency": "1",
+      "dateLastIdent": "2019-02-05",
+      "dateNextIdent": "2024-02-04",
+      "aml": "1",
+      "subSegmentName": "(1) Business Mass",
       "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \" ОНТЕР ПРОМ\"",
         "shortName": "ТОВ \"ОНТЕР ПРОМ\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \" ONTER PROM\"",
+          "shortName": "TOV \"ONTER PROM\""
+        },
         "regCode": "42548489",
         "communicationChannels": [
           {
-            "id": "28251934",
-            "phone": "0504154144",
+            "id": "29134945",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "38044495",
-            "phone": "0504154144",
+            "id": "29134946",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29134947",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САВЧУК ОЛЕНА",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "38044496",
-            "phone": "0504154144",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "39426329",
-            "phone": "0503529835",
+            "id": "39469517",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
             "purpose": "ANTI_FRAUD",
-            "description": "СОГАН ОЛЕНА ЄВГЕНІЇВНА",
-            "status": "VALID"
-          },
-          {
-            "id": "41862784",
-            "phone": "0991234567",
-            "activeNotificationChannel": "CALL",
-            "type": "MOBILE_PHONE",
-            "description": "ЛЕВАДНА ТЕТЯНА АНАТОЛІЇВНА",
-            "purpose": "FINANCE",
-            "status": "VALID"
-          },
-          {
-            "id": "42845775",
-            "phone": "0689672983",
-            "email": "esachuk@disna.ua",
-            "activeNotificationChannel": "EMAIL",
-            "type": "EMAIL",
-            "description": "САЧУКC ОЛЕНА ЄВГЕНІЇВНА",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "42845776",
-            "phone": "0504154144",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
-            "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           }
         ]
       },
-      "managers": [
+      "documents": [],
+      "addresses": [
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
-          "isActive": "true",
-          "relationshipManagerId": "IUAD1F2Z",
-          "roleId": "15"
+          "addressType": "FACT",
+          "country": "804",
+          "city": "М. КИЇВ"
         },
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "addressType": "LEGAL",
+          "country": "804",
+          "city": "М. КИЇВ"
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3060274",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "d8698a57-7734-46ff-ac24-13f44643dc54",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "12887245",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
+      "managers": [
+        {
+          "relationshipManagerEmail": "maryna.chernyshenko@raiffeisen.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1F2Z",
-          "roleId": "13"
+          "roleId": "2"
         }
       ]
     },
     {
       "customerId": "7910711",
-      "segmentId": "L",
+      "status": "YELLOW",
+      "partyType": "LE",
+      "segmentId": "P",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "BODILY",
+      "verifyDate": "2019-03-11",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "0001",
+      "residency": "1",
+      "dateLastIdent": "2019-03-11",
+      "dateNextIdent": "2024-03-09",
+      "aml": "1",
+      "subSegmentName": "(1) Business Mass",
       "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АФІРМГРУП\"",
         "shortName": "ТОВ \"АФІРМГРУП\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"AFIRMHRUP\"",
+          "shortName": "TOV \"AFIRMHRUP\""
+        },
         "regCode": "42245000",
         "communicationChannels": [
           {
-            "id": "39857433",
-            "phone": "0504154144",
+            "id": "29135655",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІВНА (КОМУНІКАЦІЯ З БАНКОМ)",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "39857434",
+            "id": "29135656",
+            "phone": "0689672983",
+            "activeNotificationChannel": "CALL",
+            "type": "DOMESTIC_PHONE",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
+          },
+          {
+            "id": "29135657",
             "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "ЛЕВАДНА ТЕТЯНА АНАТОЛІЇВНА (ЩОДО ПЛАТЕЖІВ)",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39857435",
-            "phone": "0504154144",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "ОЛЕНА ЄВГЕНІВНА",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "39857436",
-            "email": "ESavchuk@disna.ua",
-            "activeNotificationChannel": "EMAIL",
-            "type": "EMAIL",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІВНА",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "39857437",
-            "phone": "0504154144",
+            "id": "39469721",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІВНА",
-            "purpose": "CHATBOT",
-            "status": "VALID"
-          },
-          {
-            "id": "42845477",
-            "phone": "0504154144",
-            "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА",
-            "purpose": "MAIN_BUSINESS",
+            "purpose": "ANTI_FRAUD",
             "status": "VALID"
           }
         ]
       },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "city": "М. КИЇВ"
+        },
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "city": "М. КИЇВ"
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3074926",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "5092f9f1-194f-4d13-98d9-c17188bfa277",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "13040308",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
       "managers": [
         {
-          "relationshipManagerEmail": "maryna.chernyshenko@aval.ua",
+          "relationshipManagerEmail": "maryna.chernyshenko@raiffeisen.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1F2Z",
           "roleId": "2"
@@ -301,100 +421,188 @@
     },
     {
       "customerId": "7964117",
+      "status": "YELLOW",
+      "partyType": "LE",
       "segmentId": "P",
+      "country": "804",
+      "serviceType": "STANDART_BRANCH",
+      "verifyCode": "NOT_VERIF",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "residency": "1",
+      "dateLastIdent": "2019-04-18",
+      "dateNextIdent": "2024-04-15",
+      "aml": "1",
       "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ДЕТОРІС-ТРЕЙД ГРУП\"",
         "shortName": "ТОВ \"ДЕТОРІС-ТРЕЙД ГРУП\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"DETORIS-TREID HRUP\"",
+          "shortName": "TOV \"DETORIS-TREID HRUP\""
+        },
         "regCode": "41917860",
         "communicationChannels": [
           {
-            "id": "39858546",
-            "phone": "0504154144",
+            "id": "29486453",
+            "phone": "0505902178",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "39858547",
-            "phone": "0504154144",
+            "id": "29486455",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "39858548",
-            "phone": "0504154144",
+            "id": "39470789",
+            "phone": "0505902178",
             "activeNotificationChannel": "CALL",
-            "type": "DOMESTIC_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
-            "purpose": "MAIN_BUSINESS",
-            "status": "VALID"
-          },
-          {
-            "id": "39858549",
-            "email": "akaplan@disna.ua",
-            "activeNotificationChannel": "EMAIL",
-            "type": "EMAIL",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ",
-            "purpose": "MAIN_BUSINESS",
+            "type": "MOBILE_PHONE",
+            "purpose": "ANTI_FRAUD",
             "status": "VALID"
           }
         ]
       },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "region": "ДОНЕЦЬКА ОБЛАСТЬ",
+          "city": "М. МАРІУПОЛЬ"
+        },
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "region": "ДОНЕЦЬКА ОБЛАСТЬ",
+          "city": "М. МАРІУПОЛЬ"
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3091325",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "13a9b221-dee1-45b2-8148-2d4a720043fc",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "12979680",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
       "managers": [
         {
-          "relationshipManagerEmail": "nataliia.grebeniuk@aval.ua",
+          "relationshipManagerEmail": "nataliia.m.paschenko@raiffeisen.ua",
           "isActive": "true",
-          "relationshipManagerId": "NGREBENIUK",
-          "roleId": "5"
+          "relationshipManagerId": "IUAD03RO",
+          "roleId": "2"
         }
       ]
     },
     {
       "customerId": "7964388",
-      "segmentId": "P",
+      "status": "YELLOW",
+      "partyType": "LE",
+      "segmentId": "G",
+      "country": "804",
+      "serviceType": "VIRTUAL_BRANCH",
+      "verifyCode": "NOT_VERIF",
+      "active": true,
+      "bmClnClass": "80",
+      "bmClnType": "09",
+      "bmClnVid": "135",
+      "branch": "0001",
+      "residency": "1",
+      "dateLastIdent": "2019-04-18",
+      "dateNextIdent": "2024-04-15",
+      "aml": "1",
+      "subSegmentName": "(1) Business Mass",
       "party": {
+        "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АГРО-ФАВОРИТ ГРУП\"",
         "shortName": "ТОВ \"АГРО-ФАВОРИТ ГРУП\"",
+        "transliteratedNames": {
+          "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"AHRO-FAVORYT HRUP\"",
+          "shortName": "TOV \"AHRO-FAVORYT HRUP\""
+        },
         "regCode": "41916652",
         "communicationChannels": [
           {
-            "id": "44722081",
-            "phone": "0503529835",
+            "id": "29488811",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ  AKAPLAN@DISNA.UA",
+            "description": "САЧУК ОЛЕНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
           {
-            "id": "44722082",
-            "phone": "0503529835",
+            "id": "29488813",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "КАПЛАН АНДРІЙ ОЛЕКСАНДРОВИЧ  AKAPLAN@DISNA.UA",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           },
           {
-            "id": "44722083",
-            "phone": "0504154144",
+            "id": "39470792",
+            "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
-            "description": "САЧУК ОЛЕНА ЄВГЕНІЇВНА  ESACHUK@DISNA.UA",
-            "purpose": "FINANCE",
+            "purpose": "ANTI_FRAUD",
             "status": "VALID"
           }
         ]
       },
+      "documents": [],
+      "addresses": [
+        {
+          "addressType": "FACT",
+          "country": "804",
+          "region": "ДОНЕЦЬКА ОБЛАСТЬ",
+          "city": "М. МАРІУПОЛЬ"
+        },
+        {
+          "addressType": "LEGAL",
+          "country": "804",
+          "region": "ДОНЕЦЬКА ОБЛАСТЬ",
+          "city": "М. МАРІУПОЛЬ"
+        }
+      ],
+      "links": [
+        {
+          "customerId": "3091349",
+          "partyType": "LE",
+          "system": "BM"
+        },
+        {
+          "customerId": "351d2364-88c9-4e10-892f-e1306bc7d9b0",
+          "partyType": "LE",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "13047527",
+          "partyType": "LE",
+          "system": "R_INFO"
+        }
+      ],
       "managers": [
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
-          "roleId": "11"
+          "roleId": "12"
         }
       ]
     }

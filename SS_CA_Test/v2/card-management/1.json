@@ -1,0 +1,505 @@
+{
+  "userId": "2d6ecebb-7044-4207-b390-bcdede224997",
+  "tTalk": 10424,
+  "raw": {
+    "conversationEnd": "2026-07-21T16:51:47.372Z",
+    "conversationId": "cd9cc683-bdb3-4768-a4d8-aec52f0a2ccb",
+    "conversationStart": "2026-07-21T16:42:05.789Z",
+    "divisionIds": ["c49cd5d6-b98d-454b-9c40-c352fbb79172"],
+    "mediaStatsMinConversationMos": 4.882150188158429,
+    "mediaStatsMinConversationRFactor": 92.43229675292969,
+    "originatingDirection": "inbound",
+    "participants": [
+      {
+        "externalContactId": "421078fa-41b7-4694-bc5f-6459fcc571b5",
+        "participantId": "369348e2-044b-42ad-8779-35c8a08062d5",
+        "participantName": "nova-webrtc",
+        "purpose": "customer",
+        "sessions": [
+          {
+            "ani": "tel:666",
+            "direction": "inbound",
+            "dnis": "tel:+380440000002",
+            "edgeId": "b4a208dd-e29f-4e63-a99e-074c77f5b7ad",
+            "eligibleAgentCounts": [1, 1],
+            "mediaType": "voice",
+            "protocolCallId": "68vu4gvfcjfit6v5db7a",
+            "provider": "Edge",
+            "recording": true,
+            "remoteNameDisplayable": "nova-webrtc",
+            "requestedRoutings": ["Preferred"],
+            "routingRule": "2",
+            "routingRuleType": "Preferred",
+            "selectedAgentId": "af9713b9-a745-42c8-b9f1-6f2091efc24f",
+            "sessionDnis": "tel:+380440000002",
+            "sessionId": "b8124a35-257d-37d2-84a6-39808777e705",
+            "usedRouting": "Preferred",
+            "waitingInteractionCounts": [1, 1, 1],
+            "mediaEndpointStats": [
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:14.209Z",
+                "maxLatencyMs": 30,
+                "minMos": 4.898790380755877,
+                "minRFactor": 93.18067169189453,
+                "receivedPackets": 418
+              },
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:42.427Z",
+                "maxLatencyMs": 30,
+                "minMos": 4.898719489060361,
+                "minRFactor": 93.17738342285156,
+                "receivedPackets": 1403
+              },
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:52.808Z",
+                "maxLatencyMs": 34,
+                "minMos": 4.896671582089779,
+                "minRFactor": 93.08273315429688,
+                "receivedPackets": 521
+              },
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:52.861Z",
+                "maxLatencyMs": 31,
+                "minMos": 4.890241285004246,
+                "minRFactor": 92.79039764404297,
+                "receivedPackets": 2342
+              }
+            ],
+            "metrics": [
+              {
+                "emitDate": "2026-07-21T16:42:05.970Z",
+                "name": "nConnected",
+                "value": 1
+              },
+              {
+                "emitDate": "2026-07-21T16:42:52.774Z",
+                "name": "tConnected",
+                "value": 46804
+              }
+            ],
+            "segments": [
+              {
+                "conference": false,
+                "segmentEnd": "2026-07-21T16:42:05.970Z",
+                "segmentStart": "2026-07-21T16:42:05.777Z",
+                "segmentType": "system"
+              },
+              {
+                "conference": false,
+                "disconnectType": "peer",
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:52.774Z",
+                "segmentStart": "2026-07-21T16:42:05.970Z",
+                "segmentType": "interact"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "participantId": "a4e1cf03-87e8-4302-ae79-c9a19b746517",
+        "participantName": "IVR_FX_Copy",
+        "purpose": "ivr",
+        "sessions": [
+          {
+            "ani": "tel:666",
+            "direction": "inbound",
+            "dnis": "tel:+380440000002",
+            "edgeId": "99438d44-b074-452b-8e98-1312dc60ca2a",
+            "mediaType": "voice",
+            "peerId": "b8124a35-257d-37d2-84a6-39808777e705",
+            "protocolCallId": "e24d67a5-c7cc-49b3-ac26-eb096720ce30",
+            "provider": "Edge",
+            "remote": "nova-webrtc",
+            "remoteNameDisplayable": "Kiev, Ukraine",
+            "sessionDnis": "tel:+380440000002",
+            "sessionId": "ac45bc4c-b086-399a-bafa-accf58f34030",
+            "mediaEndpointStats": [
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:14.259Z",
+                "maxLatencyMs": 51,
+                "minMos": 4.898769868056233,
+                "minRFactor": 93.17971801757812,
+                "receivedPackets": 412
+              }
+            ],
+            "flow": {
+              "endingLanguage": "uk-ua",
+              "entryReason": "tel:+380440000002",
+              "entryType": "dnis",
+              "exitReason": "TRANSFER",
+              "flowId": "05745f98-b88d-4a8a-adaa-db418957e17d",
+              "flowName": "IVR_FX_Copy",
+              "flowType": "INBOUNDCALL",
+              "flowVersion": "27.0",
+              "startingLanguage": "uk-ua",
+              "transferTargetAddress": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+              "transferTargetName": "RoleId13_14_15",
+              "transferType": "ACD"
+            },
+            "metrics": [
+              {
+                "emitDate": "2026-07-21T16:42:05.789Z",
+                "name": "nConversations",
+                "value": 1
+              },
+              {
+                "emitDate": "2026-07-21T16:42:06.025Z",
+                "name": "nFlow",
+                "value": 1
+              },
+              {
+                "emitDate": "2026-07-21T16:42:14.173Z",
+                "name": "tIvr",
+                "value": 8374
+              },
+              {
+                "emitDate": "2026-07-21T16:42:14.175Z",
+                "name": "tFlow",
+                "value": 8150
+              },
+              {
+                "emitDate": "2026-07-21T16:42:14.175Z",
+                "name": "tFlowExit",
+                "value": 8150
+              }
+            ],
+            "segments": [
+              {
+                "conference": false,
+                "segmentEnd": "2026-07-21T16:42:05.799Z",
+                "segmentStart": "2026-07-21T16:42:05.789Z",
+                "segmentType": "system"
+              },
+              {
+                "conference": false,
+                "disconnectType": "transfer",
+                "segmentEnd": "2026-07-21T16:42:14.173Z",
+                "segmentStart": "2026-07-21T16:42:05.799Z",
+                "segmentType": "ivr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "participantId": "98365a9a-bf1f-4432-b168-38fafd9c18c9",
+        "participantName": "RoleId13_14_15",
+        "purpose": "acd",
+        "sessions": [
+          {
+            "ani": "tel:666",
+            "destinationAddresses": [
+              "sip:vladyslav.sirenko%40novait.com.ua@localhost"
+            ],
+            "direction": "inbound",
+            "dnis": "tel:+380440000002",
+            "edgeId": "99438d44-b074-452b-8e98-1312dc60ca2a",
+            "eligibleAgentCounts": [1, 1],
+            "flowInType": "ivr",
+            "mediaType": "voice",
+            "peerId": "b8124a35-257d-37d2-84a6-39808777e705",
+            "protocolCallId": "dcc09442-20de-4f35-b312-317dd9c966b5",
+            "provider": "Edge",
+            "remote": "nova-webrtc",
+            "remoteNameDisplayable": "RoleId13_14_15",
+            "requestedRoutings": ["Preferred"],
+            "routingRule": "2",
+            "routingRuleType": "Preferred",
+            "selectedAgentId": "af9713b9-a745-42c8-b9f1-6f2091efc24f",
+            "sessionDnis": "tel:+380440000002",
+            "sessionId": "9e99d2eb-1424-3fc2-a6b8-a6458ced9074",
+            "usedRouting": "Preferred",
+            "waitingInteractionCounts": [1, 1, 1],
+            "mediaEndpointStats": [
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:42.449Z",
+                "maxLatencyMs": 32,
+                "minMos": 4.898607225382535,
+                "minRFactor": 93.17217254638672,
+                "receivedPackets": 1403
+              }
+            ],
+            "flow": {
+              "flowId": "7e3e70b1-3726-47a9-8dee-501db6ca00bc",
+              "flowName": "FX_13,14,15",
+              "flowType": "INQUEUECALL",
+              "flowVersion": "20.0",
+              "startingLanguage": "uk-ua"
+            },
+            "metrics": [
+              {
+                "emitDate": "2026-07-21T16:42:14.287Z",
+                "name": "nOffered",
+                "value": 1
+              },
+              {
+                "emitDate": "2026-07-21T16:42:42.391Z",
+                "name": "tAcd",
+                "value": 28104
+              }
+            ],
+            "segments": [
+              {
+                "conference": false,
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:14.287Z",
+                "segmentStart": "2026-07-21T16:42:14.229Z",
+                "segmentType": "delay",
+                "scoredAgents": [
+                  {
+                    "agentScore": 100,
+                    "scoredAgentId": "2d6ecebb-7044-4207-b390-bcdede224997"
+                  },
+                  {
+                    "agentScore": 90,
+                    "scoredAgentId": "af9713b9-a745-42c8-b9f1-6f2091efc24f"
+                  }
+                ]
+              },
+              {
+                "conference": false,
+                "disconnectType": "transfer",
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:42.391Z",
+                "segmentStart": "2026-07-21T16:42:14.287Z",
+                "segmentType": "interact",
+                "sipResponseCodes": [410],
+                "scoredAgents": [
+                  {
+                    "agentScore": 100,
+                    "scoredAgentId": "2d6ecebb-7044-4207-b390-bcdede224997"
+                  },
+                  {
+                    "agentScore": 90,
+                    "scoredAgentId": "af9713b9-a745-42c8-b9f1-6f2091efc24f"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "participantId": "d063628d-86f6-479f-a3bd-1b7971e2e135",
+        "purpose": "agent",
+        "userId": "2d6ecebb-7044-4207-b390-bcdede224997",
+        "sessions": [
+          {
+            "ani": "tel:666",
+            "direction": "inbound",
+            "dnis": "tel:+380440000002",
+            "edgeId": "99438d44-b074-452b-8e98-1312dc60ca2a",
+            "eligibleAgentCounts": [1],
+            "mediaType": "voice",
+            "peerId": "b8124a35-257d-37d2-84a6-39808777e705",
+            "protocolCallId": "f1a8df16-e30c-4ca2-a32c-8204fd766600",
+            "provider": "Edge",
+            "remote": "nova-webrtc",
+            "requestedRoutings": ["Preferred"],
+            "routingRule": "1",
+            "routingRuleType": "Preferred",
+            "selectedAgentId": "2d6ecebb-7044-4207-b390-bcdede224997",
+            "sessionDnis": "sip:69a864f437db53e7bc306889+rbua.orgspan.com@localhost",
+            "sessionId": "88d10336-e9dd-3b6b-8314-5f5fe8469b0c",
+            "waitingInteractionCounts": [1],
+            "mediaEndpointStats": [
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:22.817Z",
+                "minMos": 4.899206471111111,
+                "minRFactor": 93.19999694824219,
+                "receivedPackets": 2
+              }
+            ],
+            "metrics": [
+              {
+                "emitDate": "2026-07-21T16:42:22.769Z",
+                "name": "tAlert",
+                "value": 8281
+              },
+              {
+                "emitDate": "2026-07-21T16:42:22.769Z",
+                "name": "tNotResponding",
+                "value": 8281
+              }
+            ],
+            "segments": [
+              {
+                "conference": false,
+                "disconnectType": "client",
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:22.769Z",
+                "segmentStart": "2026-07-21T16:42:14.488Z",
+                "segmentType": "alert"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "participantId": "ec069cf1-ea06-44ea-a433-3e3ec0089969",
+        "purpose": "agent",
+        "userId": "af9713b9-a745-42c8-b9f1-6f2091efc24f",
+        "sessions": [
+          {
+            "ani": "tel:666",
+            "direction": "inbound",
+            "dnis": "tel:+380440000002",
+            "edgeId": "99438d44-b074-452b-8e98-1312dc60ca2a",
+            "eligibleAgentCounts": [1, 1],
+            "mediaType": "voice",
+            "peerId": "b8124a35-257d-37d2-84a6-39808777e705",
+            "protocolCallId": "b512f1f4-b1e2-493c-a41a-4fe440ffc50a",
+            "provider": "Edge",
+            "remote": "nova-webrtc",
+            "requestedRoutings": ["Preferred"],
+            "routingRule": "2",
+            "routingRuleType": "Preferred",
+            "selectedAgentId": "af9713b9-a745-42c8-b9f1-6f2091efc24f",
+            "sessionDnis": "sip:6a4e6c5942e0088f13418fae+rbua.orgspan.com@localhost",
+            "sessionId": "8b4e1cd7-e8a3-3c53-a197-3c29793209a2",
+            "waitingInteractionCounts": [1, 1],
+            "metrics": [
+              {
+                "emitDate": "2026-07-21T16:42:37.763Z",
+                "name": "tAlert",
+                "value": 8200
+              },
+              {
+                "emitDate": "2026-07-21T16:42:37.763Z",
+                "name": "tNotResponding",
+                "value": 8200
+              }
+            ],
+            "segments": [
+              {
+                "conference": false,
+                "disconnectType": "client",
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:37.763Z",
+                "segmentStart": "2026-07-21T16:42:29.563Z",
+                "segmentType": "alert"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "participantId": "e54183ca-d91e-4fd5-9858-c78a6553c6d6",
+        "purpose": "agent",
+        "userId": "af9713b9-a745-42c8-b9f1-6f2091efc24f",
+        "sessions": [
+          {
+            "ani": "tel:666",
+            "direction": "inbound",
+            "dnis": "tel:+380440000002",
+            "edgeId": "99438d44-b074-452b-8e98-1312dc60ca2a",
+            "eligibleAgentCounts": [1, 1],
+            "mediaType": "voice",
+            "peerId": "b8124a35-257d-37d2-84a6-39808777e705",
+            "protocolCallId": "b512f1f4-b1e2-493c-a41a-4fe440ffc50a",
+            "provider": "Edge",
+            "recording": true,
+            "remote": "nova-webrtc",
+            "requestedRoutings": ["Preferred"],
+            "routingRule": "2",
+            "routingRuleType": "Preferred",
+            "selectedAgentId": "af9713b9-a745-42c8-b9f1-6f2091efc24f",
+            "sessionDnis": "sip:6a4e6c5942e0088f13418fae+rbua.orgspan.com@localhost",
+            "sessionId": "c53386aa-2777-329a-8c47-46c44bc03772",
+            "usedRouting": "Preferred",
+            "waitingInteractionCounts": [1, 1, 1],
+            "mediaEndpointStats": [
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:52.805Z",
+                "maxLatencyMs": 33,
+                "minMos": 4.882150188158429,
+                "minRFactor": 92.43229675292969,
+                "receivedPackets": 532
+              },
+              {
+                "codecs": ["audio/opus"],
+                "eventTime": "2026-07-21T16:42:52.843Z",
+                "maxLatencyMs": 31,
+                "minMos": 4.898707981948835,
+                "minRFactor": 93.17684936523438,
+                "receivedPackets": 521
+              }
+            ],
+            "metrics": [
+              {
+                "emitDate": "2026-07-21T16:42:42.347Z",
+                "name": "nOverSla",
+                "value": 1
+              },
+              {
+                "emitDate": "2026-07-21T16:42:42.347Z",
+                "name": "tAlert",
+                "value": 2148
+              },
+              {
+                "emitDate": "2026-07-21T16:42:42.347Z",
+                "name": "tAnswered",
+                "value": 28104
+              },
+              {
+                "emitDate": "2026-07-21T16:42:52.771Z",
+                "name": "tTalk",
+                "value": 10424
+              },
+              {
+                "emitDate": "2026-07-21T16:42:52.771Z",
+                "name": "tTalkComplete",
+                "value": 10424
+              },
+              {
+                "emitDate": "2026-07-21T16:51:47.372Z",
+                "name": "tAcw",
+                "value": 534601
+              },
+              {
+                "emitDate": "2026-07-21T16:51:47.372Z",
+                "name": "tHandle",
+                "value": 545025
+              }
+            ],
+            "segments": [
+              {
+                "conference": false,
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:42.347Z",
+                "segmentStart": "2026-07-21T16:42:40.199Z",
+                "segmentType": "alert"
+              },
+              {
+                "conference": false,
+                "disconnectType": "client",
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:42:52.771Z",
+                "segmentStart": "2026-07-21T16:42:42.347Z",
+                "segmentType": "interact"
+              },
+              {
+                "conference": false,
+                "disconnectType": "client",
+                "queueId": "0722700f-f0e0-4a2a-92b9-9f8cbf3cabde",
+                "segmentEnd": "2026-07-21T16:51:47.372Z",
+                "segmentStart": "2026-07-21T16:42:52.771Z",
+                "segmentType": "wrapup",
+                "wrapUpCode": "7fb334b0-0e9e-11e4-9191-0800200c9a66"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

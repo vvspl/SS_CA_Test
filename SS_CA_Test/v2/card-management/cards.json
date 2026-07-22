@@ -28,6 +28,7 @@
             "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "СВІТЛАНА ОЛЕГІВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
@@ -36,6 +37,7 @@
             "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "DOMESTIC_PHONE",
+            "description": "СВІТЛАНА ОЛЕГІВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
@@ -44,6 +46,7 @@
             "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
+            "description": "СВІТЛАНА ОЛЕГІВНА",
             "purpose": "MAIN_PRIVATE",
             "status": "VALID"
           }
@@ -125,6 +128,7 @@
             "phone": "0689672983",
             "activeNotificationChannel": "CALL",
             "type": "DOMESTIC_PHONE",
+            "description": "СВІТЛАНА ОЛЕГІВНА",
             "purpose": "MAIN_BUSINESS",
             "status": "VALID"
           },
@@ -599,7 +603,7 @@
       ],
       "managers": [
         {
-          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
+          "relationshipManagerEmail": "nadiia2.stotska@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
           "roleId": "12"

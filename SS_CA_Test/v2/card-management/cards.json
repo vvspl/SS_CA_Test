@@ -199,19 +199,19 @@
           "relationshipManagerEmail": "vladyslav1.sirenko@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD018L",
-          "roleId": "15"
+          "roleId": "5"
         },
         {
           "relationshipManagerEmail": "ganna.cherutsia@raiffeisen.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD13FY",
-          "roleId": "13"
+          "roleId": "11"
         },
         {
           "relationshipManagerEmail": "nadiia1.stotska@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0PU3",
-          "roleId": "14"
+          "roleId": "4"
         },
         {
           "relationshipManagerEmail": "olena.kyrylenko@raiffeisen.ua",
@@ -606,7 +606,7 @@
           "relationshipManagerEmail": "nadiia2.stotska@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
-          "roleId": "12"
+          "roleId": "17"
         }
       ]
     }

@@ -515,7 +515,7 @@
       "customerId": "7964388",
       "status": "YELLOW",
       "partyType": "LE",
-      "segmentId": "G",
+      "segmentId": "W",
       "country": "804",
       "serviceType": "VIRTUAL_BRANCH",
       "verifyCode": "NOT_VERIF",
@@ -599,7 +599,7 @@
       ],
       "managers": [
         {
-          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
+          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
           "roleId": "12"

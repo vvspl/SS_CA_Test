@@ -35,7 +35,7 @@
       "status": "GREEN",
       "active": true,
       "partyType": "PI",
-      "segmentId": "F",
+      "segmentId": "G",
       "country": "804",
       "nextDateIndent": "2030-05-04",
       "serviceType": "STANDART_BRANCH",
@@ -101,13 +101,13 @@
           "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0UIP",
-          "roleId": "19"
+          "roleId": "14"
         },
         {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
+          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD018L",
-          "roleId": "17"
+          "roleId": "13"
         },
         {
           "relationshipManagerEmail": "ganna.cherutsia@raiffeisen.ua",

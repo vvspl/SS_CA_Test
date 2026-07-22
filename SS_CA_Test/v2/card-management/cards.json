@@ -531,12 +531,12 @@
       "subSegmentName": "(1) Business Mass",
       "party": {
         "fullName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"АГРО-ФАВОРИТ ГРУП\"",
-        "shortName": "ТОВ \"АГРО-ФАВОРИТ ГРУП\"",
+        "shortName": "ТОВ \"АГРО-ФАВОРИТ ГРУП Яблоко\"",
         "transliteratedNames": {
           "fullName": "TOVARYSTVO Z OBMEZHENOIU VIDPOVIDALNISTIU \"AHRO-FAVORYT HRUP\"",
           "shortName": "TOV \"AHRO-FAVORYT HRUP\""
         },
-        "regCode": "41916652",
+        "regCode": "41916655",
         "communicationChannels": [
           {
             "id": "29488811",

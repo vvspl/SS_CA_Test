@@ -315,10 +315,10 @@
       ],
       "managers": [
         {
-          "relationshipManagerEmail": "maryna.chernyshenko@raiffeisen.ua",
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1F2Z",
-          "roleId": "2"
+          "roleId": "15"
         }
       ]
     },
@@ -416,10 +416,10 @@
       ],
       "managers": [
         {
-          "relationshipManagerEmail": "maryna.chernyshenko@raiffeisen.ua",
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD1F2Z",
-          "roleId": "2"
+          "roleId": "14"
         }
       ]
     },
@@ -508,10 +508,10 @@
       ],
       "managers": [
         {
-          "relationshipManagerEmail": "nataliia.m.paschenko@raiffeisen.ua",
+          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD03RO",
-          "roleId": "2"
+          "roleId": "13"
         }
       ]
     },
@@ -606,7 +606,7 @@
           "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
           "isActive": "true",
           "relationshipManagerId": "IUAD0QY8",
-          "roleId": "12"
+          "roleId": "10"
         }
       ]
     }

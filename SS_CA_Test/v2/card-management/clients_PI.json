@@ -1,133 +1,142 @@
 {
   "clients": [
     {
-      "customerId": "12153895",
+      "customerId": "2534007",
       "party": {
         "name": {
-          "firstName": "ВЕНА",
-          "lastName": "НАЗАРЕНКО",
-          "middleName": "ХАФІСОВНА"
+          "firstName": "ОЛЬГА",
+          "lastName": "БОГДАНОВА",
+          "middleName": "ОЛЕКСАНДРІВНА"
         },
         "nameInLatin": {
-          "firstName": "VENA",
-          "lastName": "NAZARENKO",
-          "middleName": "KHAFISOVNA"
+          "firstName": "OLHA",
+          "lastName": "BOHDANOVA",
+          "middleName": "OLEKSANDRIVNA"
         },
         "birth": {
-          "date": "1942-03-29"
+          "date": "1986-10-25"
         },
         "communicationChannels": [
           {
-            "id": "38687524",
-            "phone": "0991234567",
+            "id": "13955213",
+            "phone": "0669302508",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
             "purpose": "MOBILE_BANKING",
             "status": "VERIFIED"
+          },
+          {
+            "id": "40457622",
+            "email": "olgabog2510@gmail.com",
+            "activeNotificationChannel": "EMAIL",
+            "type": "EMAIL",
+            "purpose": "MAIN_BUSINESS",
+            "status": "VALID"
           }
         ]
       },
-      "phone": "0991234567",
-      "taxId": "1542805781",
+      "phone": "0669302508",
+      "taxId": "3170910987",
       "phoneVerify": true,
-      "verifyCode": "BODILY",
-      "verifyDate": "2021-07-07",
+      "verifyCode": "DIJA_PHOTO_TAN",
+      "verifyDate": "2025-08-22",
       "status": "GREEN",
-      "active": true,
       "partyType": "PI",
-      "segmentId": "P",
+      "segmentId": "E",
       "country": "804",
-      "nextDateIndent": "2030-05-04",
+      "nextDateIndent": "2028-12-23",
       "serviceType": "STANDART_BRANCH",
       "publicPerson": "PI_00",
       "documents": [
         {
-          "serialNumber": "ЕЯ",
-          "id": "641635",
+          "serialNumber": "МР",
+          "id": "207619",
           "type": "00",
-          "issuingAuthority": "МЕЛІТОПОЛЬСЬКИМ МВ УМВС УКРАЇНИ В ЗАПОРІЗЬКІЙ ОБЛАСТІ",
+          "issuingAuthority": "КОМСОМОЛЬСЬКИМ ВМ ХМВ УМВС УКРАЇНИВ ХЕРСОНСЬКІЙ ОБЛАСТІ",
           "mainType": "false"
         }
       ],
       "addresses": [
         {
-          "addressType": "LIVE",
-          "country": "804",
-          "region": "ЗАПОРІЗЬКА",
-          "city": "Бахмач",
-          "cityType": "СМТ"
-        },
-        {
           "addressType": "REG",
           "country": "804",
-          "region": "ЗАПОРІЗЬКА",
-          "city": "Вільна Тарасівка",
-          "cityType": "С."
+          "region": "ХЕРСОНСЬКА ОБЛАСТЬ",
+          "city": "Херсон",
+          "cityType": "М."
+        },
+        {
+          "addressType": "LIVE",
+          "country": "804",
+          "region": "ВІННИЦЬКА ОБЛАСТЬ",
+          "city": "ХМІЛЬНИК",
+          "cityType": "М."
         }
       ],
       "links": [
         {
-          "customerId": "10705323",
+          "customerId": "32401604",
           "partyType": "PI",
-          "system": "R_INFO"
+          "system": "VIC"
         },
         {
-          "customerId": "d399963e-1dde-461a-ace8-982da0c3402e",
+          "customerId": "2944128",
           "partyType": "PI",
-          "system": "aCRM"
+          "system": "ORION"
         },
         {
-          "customerId": "4651381",
-          "partyType": "PI",
-          "system": "IB"
-        },
-        {
-          "customerId": "3460356",
+          "customerId": "2383481",
           "partyType": "PI",
           "system": "BM"
         },
         {
-          "customerId": "115650",
+          "customerId": "29497",
+          "partyType": "PI",
+          "system": "IB"
+        },
+        {
+          "customerId": "149933",
+          "system": "CLOGIC"
+        },
+        {
+          "customerId": "3170910987",
+          "system": "SB"
+        },
+        {
+          "customerId": "102599615",
+          "system": "G-REC"
+        },
+        {
+          "customerId": "0b0011ee81cbc78b",
+          "partyType": "PI",
+          "system": "DMS"
+        },
+        {
+          "customerId": "59d36c39-8286-470d-85c3-ed0328247604",
+          "partyType": "PI",
+          "system": "IQPI"
+        },
+        {
+          "customerId": "10021259",
+          "partyType": "PI",
+          "system": "R_INFO"
+        },
+        {
+          "customerId": "4b8e6a9f-4ad3-441e-a6c9-e62010884dd2",
+          "partyType": "PI",
+          "system": "aCRM"
+        },
+        {
+          "customerId": "811764",
           "partyType": "PI",
           "system": "IS-CARD"
         },
         {
-          "customerId": "0b0011ee158e5e0d",
-          "system": "DMS"
+          "customerId": "a9f114b6-e691-4b4e-ac47-c0a651739990",
+          "partyType": "PI",
+          "system": "MY_RF"
         }
       ],
-      "managers": [
-        {
-          "relationshipManagerEmail": "vladyslav.sirenko@novait.com.ua",
-          "isActive": "true",
-          "relationshipManagerId": "IUAD0UIP",
-          "roleId": "18"
-        },
-        {
-          "relationshipManagerEmail": "nadiia.stotska@novait.com.ua",
-          "isActive": "true",
-          "relationshipManagerId": "IUAD018L",
-          "roleId": "14"
-        },
-        {
-          "relationshipManagerEmail": "ganna.cherutsia@raiffeisen.ua",
-          "isActive": "true",
-          "relationshipManagerId": "IUAD13FY",
-          "roleId": "6"
-        },
-        {
-          "relationshipManagerEmail": "svitlana.kryskun@novait.com.ua",
-          "isActive": "true",
-          "relationshipManagerId": "IUAD103Y",
-          "roleId": "13"
-        },
-        {
-          "relationshipManagerEmail": "halyna.yurovych@raiffeisen.ua",
-          "isActive": "true",
-          "relationshipManagerId": "IUAD1C4P",
-          "roleId": "16"
-        }
-      ]
+      "managers": []
     }
   ]
 }

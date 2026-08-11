@@ -1,0 +1,109 @@
+{
+  "cards": [
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******3865",
+
+      "customParameters": {
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ]
+      }
+    },
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "cardStatus": {
+        "status": "UNACTIVATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******9361",
+
+      "customParameters": {
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "103"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "827",
+
+            "codeType": "hotCode",
+
+            "message": "NON-ACTIVATED CARD"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "16",
+
+            "codeType": "softCode"
+          }
+        ]
+      }
+    },
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******7576",
+
+      "customParameters": {
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ]
+      }
+    }
+  ]
+}

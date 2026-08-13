@@ -1,33 +1,33 @@
 {
   "clients": [
     {
-      "customerId": "2534007",
+      "customerId": "12809829",
       "party": {
         "name": {
-          "firstName": "ОЛЬГА",
-          "lastName": "БОГДАНОВА",
-          "middleName": "ОЛЕКСАНДРІВНА"
+          "firstName": "ОКСАНА",
+          "lastName": "ГОРОБЕЦЬ",
+          "middleName": "БОРИСІВНА"
         },
         "nameInLatin": {
-          "firstName": "OLHA",
-          "lastName": "BOHDANOVA",
-          "middleName": "OLEKSANDRIVNA"
+          "firstName": "OKSANA",
+          "lastName": "HOROBETS",
+          "middleName": "BORYSIVNA"
         },
         "birth": {
-          "date": "1986-10-25"
+          "date": "1994-10-07"
         },
         "communicationChannels": [
           {
-            "id": "13955213",
-            "phone": "0669302508",
+            "id": "40624866",
+            "phone": "0997480549",
             "activeNotificationChannel": "CALL",
             "type": "MOBILE_PHONE",
             "purpose": "MOBILE_BANKING",
             "status": "VERIFIED"
           },
           {
-            "id": "40457622",
-            "email": "olgabog2510@gmail.com",
+            "id": "40624975",
+            "email": "ksu.horobets@gmail.com",
             "activeNotificationChannel": "EMAIL",
             "type": "EMAIL",
             "purpose": "MAIN_BUSINESS",
@@ -35,105 +35,89 @@
           }
         ]
       },
-      "phone": "0669302508",
-      "taxId": "3170910987",
+      "phone": "0997480549",
+      "taxId": "3461307346",
       "phoneVerify": true,
       "verifyCode": "DIJA_PHOTO_TAN",
-      "verifyDate": "2025-08-22",
+      "verifyDate": "2026-07-31",
       "status": "GREEN",
+      "active": true,
       "partyType": "PI",
-      "segmentId": "E",
+      "segmentId": "F",
       "country": "804",
-      "nextDateIndent": "2028-12-23",
+      "nextDateIndent": "2030-09-02",
       "serviceType": "STANDART_BRANCH",
       "publicPerson": "PI_00",
       "documents": [
         {
-          "serialNumber": "МР",
-          "id": "207619",
+          "serialNumber": "ВН",
+          "id": "522466",
           "type": "00",
-          "issuingAuthority": "КОМСОМОЛЬСЬКИМ ВМ ХМВ УМВС УКРАЇНИВ ХЕРСОНСЬКІЙ ОБЛАСТІ",
+          "issuingAuthority": "ЧУДНІВСЬКИМ РВ УМВС УКРАЇНИ В ЖИТОМИРСЬКІЙ ОБЛАСТІ",
+          "mainType": "false"
+        },
+        {
+          "serialNumber": "FG",
+          "id": "821948",
+          "type": "04",
+          "issuingAuthority": "8089",
           "mainType": "false"
         }
       ],
       "addresses": [
         {
-          "addressType": "REG",
-          "country": "804",
-          "region": "ХЕРСОНСЬКА ОБЛАСТЬ",
-          "city": "Херсон",
-          "cityType": "М."
-        },
-        {
           "addressType": "LIVE",
           "country": "804",
-          "region": "ВІННИЦЬКА ОБЛАСТЬ",
-          "city": "ХМІЛЬНИК",
-          "cityType": "М."
+          "city": "КИЇВ",
+          "cityType": "м."
+        },
+        {
+          "addressType": "REG",
+          "country": "804",
+          "region": "ЖИТОМИРСЬКА ОБЛАСТЬ",
+          "city": "СЛОБОДИЩЕ",
+          "cityType": "с."
         }
       ],
       "links": [
         {
-          "customerId": "32401604",
-          "partyType": "PI",
-          "system": "VIC"
-        },
-        {
-          "customerId": "2944128",
-          "partyType": "PI",
-          "system": "ORION"
-        },
-        {
-          "customerId": "2383481",
-          "partyType": "PI",
-          "system": "BM"
-        },
-        {
-          "customerId": "29497",
-          "partyType": "PI",
-          "system": "IB"
-        },
-        {
-          "customerId": "149933",
-          "system": "CLOGIC"
-        },
-        {
-          "customerId": "3170910987",
-          "system": "SB"
-        },
-        {
-          "customerId": "102599615",
-          "system": "G-REC"
-        },
-        {
-          "customerId": "0b0011ee81cbc78b",
-          "partyType": "PI",
-          "system": "DMS"
-        },
-        {
-          "customerId": "59d36c39-8286-470d-85c3-ed0328247604",
-          "partyType": "PI",
-          "system": "IQPI"
-        },
-        {
-          "customerId": "10021259",
+          "customerId": "11279833",
           "partyType": "PI",
           "system": "R_INFO"
         },
         {
-          "customerId": "4b8e6a9f-4ad3-441e-a6c9-e62010884dd2",
+          "customerId": "5360398",
           "partyType": "PI",
-          "system": "aCRM"
+          "system": "IB"
         },
         {
-          "customerId": "811764",
+          "customerId": "34253606",
           "partyType": "PI",
-          "system": "IS-CARD"
+          "system": "ORION"
         },
         {
-          "customerId": "a9f114b6-e691-4b4e-ac47-c0a651739990",
+          "customerId": "ae050d58-72f3-4d4c-ae80-2421617be906",
+          "partyType": "PI",
+          "system": "IQPI"
+        },
+        {
+          "customerId": "5844553",
+          "partyType": "PI",
+          "system": "BM"
+        },
+        {
+          "customerId": "0b0011ee2968ecc3",
+          "system": "DMS"
+        },
+        {
+          "customerId": "b9a53a6d-72c6-4090-832f-ec5651a6b24a",
           "partyType": "PI",
           "system": "MY_RF"
+        },
+        {
+          "customerId": "6106560",
+          "partyType": "PI",
+          "system": "IS-CARD"
         }
       ],
       "managers": []

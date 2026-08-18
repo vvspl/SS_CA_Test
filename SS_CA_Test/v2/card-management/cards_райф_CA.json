@@ -1,0 +1,2743 @@
+{
+  "cards": [
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA043003350000002620112956538",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Raifcard +",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******3865",
+
+      "creationDateTime": "2025-08-12T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T19:17:34.747227Z",
+
+      "expirationMonthYear": "08/30",
+
+      "expirationDateTime": "2030-08-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "84",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "132685268",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "096da078542ac16aa7c6e201ff6bb381",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA043003350000002620112956538",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Gold Virtual ",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******1981",
+
+      "creationDateTime": "2024-08-03T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T13:30:24.692179Z",
+
+      "expirationMonthYear": "08/33",
+
+      "expirationDateTime": "2033-08-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "336",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "18857707",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "7df9d2a2c89fb1364afbc75ece331ed4",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA883003350000002620512956545",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Raifcard +",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******4846",
+
+      "creationDateTime": "2025-11-21T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T20:29:52.650947Z",
+
+      "expirationMonthYear": "11/30",
+
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "84",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "135850240",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "198dfa04e7385c9ded040b4940d060ca",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA883003350000002620512956545",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "EMBOSSED",
+
+          "extendedStatus": "EMBOSSED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******4417",
+
+      "creationDateTime": "2025-11-21T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T16:12:07.325784Z",
+
+      "expirationMonthYear": "11/30",
+
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "931",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "135850241",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "cdc789452a0151a352131fca83526db0",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Virtual",
+
+          "uri": "https://channels.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": "не потрібна "
+      },
+
+      "maskedPan": "414951******7165",
+
+      "creationDateTime": "2023-08-02T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T13:52:51.945916Z",
+
+      "expirationMonthYear": "08/33",
+
+      "expirationDateTime": "2033-08-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "336",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "10706909",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "200",
+
+            "message": "не потрібна "
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "217788a064134d4a963511f5b2f8bac2",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA223003350000002620912956536",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": "The card was reported lost."
+      },
+
+      "maskedPan": "411997******4942",
+
+      "creationDateTime": "2024-08-03T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-01-21T08:29:16.034541Z",
+
+      "expirationMonthYear": "08/33",
+
+      "expirationDateTime": "2033-08-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "336",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "18772523",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "208",
+
+            "message": "The card was reported lost."
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "62bd03dc143d8afdeae87b074da5a2ba",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA043003350000002620112956538",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******2623",
+
+      "creationDateTime": "2025-08-12T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T14:42:44.400195Z",
+
+      "expirationMonthYear": "08/30",
+
+      "expirationDateTime": "2030-08-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "931",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "132685340",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "ae60f2e18e637b068e6df3d9c5ef414f",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA883003350000002620512956545",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Gold Virtual ",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******5534",
+
+      "creationDateTime": "2024-08-03T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T21:08:37.154016Z",
+
+      "expirationMonthYear": "08/33",
+
+      "expirationDateTime": "2033-08-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "336",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "18857710",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "cb7dc5998d40a9e12b3439dcbd1244f0",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA883003350000002620512956545",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": "не потрібна "
+      },
+
+      "maskedPan": "411997******6936",
+
+      "creationDateTime": "2025-07-11T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T13:07:26.429329Z",
+
+      "expirationMonthYear": "07/30",
+
+      "expirationDateTime": "2030-07-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "85",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "131747845",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "200",
+
+            "message": "не потрібна "
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "2326c65290b52a1da1b6e54ae16032c7",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": "The card was reported lost."
+      },
+
+      "maskedPan": "414951******0716",
+
+      "creationDateTime": "2024-07-29T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-01-21T06:12:23.754817Z",
+
+      "expirationMonthYear": "07/29",
+
+      "expirationDateTime": "2029-07-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "931",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "18528491",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "208",
+
+            "message": "The card was reported lost."
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "a32613b72a1c668c47e3a0a143c796a1",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA223003350000002620912956536",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Gold Virtual ",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******3115",
+
+      "creationDateTime": "2026-01-21T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-03T15:50:05.424021Z",
+
+      "expirationMonthYear": "12/34",
+
+      "expirationDateTime": "2034-12-31T21:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "932",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "136580174",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "200",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "0abf6fea38c9b48aae0230c6819c2a64",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA223003350000002620912956536",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "DELIVERED",
+
+          "extendedStatus": "NP2CLIENT"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******2156",
+
+      "creationDateTime": "2026-05-06T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-03T15:50:05.611271Z",
+
+      "expirationMonthYear": "05/31",
+
+      "expirationDateTime": "2031-05-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "931",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "140221053",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "200",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "aeffa3863c6fcb52d58633edef69e42c",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CC01_423_1202_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA583003350000002620416170485",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Classic Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/RB_100dniv_card.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******7313",
+
+      "creationDateTime": "2026-03-17T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-05-08T13:32:09.560763Z",
+
+      "expirationMonthYear": "03/31",
+
+      "expirationDateTime": "2031-03-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "1202",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "138583686",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "102",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "396ec4505d94dcb234f570db82cdbd7f",
+
+      "relatedProductId": "5759-45"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA223003350000002620912956536",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "DELIVERED",
+
+          "extendedStatus": "NP2CLIENT"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******0906",
+
+      "creationDateTime": "2026-05-06T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-03T15:50:05.573302Z",
+
+      "expirationMonthYear": "05/31",
+
+      "expirationDateTime": "2031-05-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "85",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "140220985",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "200",
+
+            "message": ""
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "60827008f5217a4342d4c99c31f51695",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA043003350000002620112956538",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "TERMINATED",
+
+        "statusReason": "не потрібна "
+      },
+
+      "maskedPan": "414951******0470",
+
+      "creationDateTime": "2025-07-11T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-04-10T14:26:54.771499Z",
+
+      "expirationMonthYear": "07/30",
+
+      "expirationDateTime": "2030-07-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "931",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "131747843",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "200",
+
+            "message": "не потрібна "
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "c586f6b7ad7a1aa4b6faef43c5dbe025",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_1190_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA313003350000002620612118052",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "PREDELIVERED",
+
+          "extendedStatus": "BRANCH"
+        }
+      },
+
+      "cardStatus": {
+        "status": "UNACTIVATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******9361",
+
+      "creationDateTime": "2026-08-05T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-05T09:46:06.902398Z",
+
+      "expirationMonthYear": "08/31",
+
+      "expirationDateTime": "2031-08-31T20:59:59.000000Z",
+
+      "isPinSet": false,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "85",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "142505311",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "PIN_IS_NOT_SET",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "103"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "827",
+
+            "codeType": "hotCode",
+
+            "message": "NON-ACTIVATED CARD"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "16",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO"
+      },
+
+      "cardId": "fce827f9bc3cae8bb2a13c7220676f37",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_1190_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA313003350000002620612118052",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Gold Virtual ",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******4571",
+
+      "creationDateTime": "2026-04-17T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-07-27T16:17:52.304781Z",
+
+      "expirationMonthYear": "04/35",
+
+      "expirationDateTime": "2035-04-30T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "932",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "139485617",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "8ed0f29883d293ab0ba922c2fdbe81d1",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_1157_EUR",
+
+      "cardIssuingContract": {
+        "iban": "UA033003350000002620714752316",
+
+        "currencies": ["EUR"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "VISA Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414950******9476",
+
+      "creationDateTime": "2025-07-01T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-07-27T16:18:20.587030Z",
+
+      "expirationMonthYear": "03/34",
+
+      "expirationDateTime": "2034-03-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "1157",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "128146052",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "f576e877465ffc416fee9730da69d969",
+
+      "relatedProductId": "5722-49"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA413003350000002620816727441",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_Debit_2026.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******7576",
+
+      "creationDateTime": "2026-07-31T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-07-31T15:05:29.353965Z",
+
+      "expirationMonthYear": "06/35",
+
+      "expirationDateTime": "2035-06-30T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "336",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "141080048",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "fcc92606a1e635bf3464555972c35ae7",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA413003350000002620816727441",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Raifcard +",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "DELIVERED",
+
+          "extendedStatus": "NP2CLIENT"
+        }
+      },
+
+      "cardStatus": {
+        "status": "UNACTIVATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******2613",
+
+      "creationDateTime": "2026-08-03T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-05T12:47:31.164444Z",
+
+      "expirationMonthYear": "08/31",
+
+      "expirationDateTime": "2031-08-31T20:59:59.000000Z",
+
+      "isPinSet": false,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "84",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "142459242",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "PIN_IS_NOT_SET",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "103"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "827",
+
+            "codeType": "hotCode",
+
+            "message": "NON-ACTIVATED CARD"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "16",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO"
+      },
+
+      "cardId": "e1a4de43c9377d7c6db8fa073330e216",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa ATB Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/ATB_414951002_01042021.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******0772",
+
+      "creationDateTime": "2026-01-21T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-06-10T09:21:06.017667Z",
+
+      "expirationMonthYear": "11/34",
+
+      "expirationDateTime": "2034-11-30T21:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "938",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "136045788",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "8fae025cc3cc1f4d47cb833e0f8bc449",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA163003350000002620916682705",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Virtual ",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414950******5270",
+
+      "creationDateTime": "2026-07-21T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-07-21T08:41:24.776041Z",
+
+      "expirationMonthYear": "07/35",
+
+      "expirationDateTime": "2035-07-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "336",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "141956242",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "d19acdf7516e19ddddaf9514e44fd9c6",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "HOROBETS OKSANA"
+        },
+
+        "fulfillment": {
+          "status": "EMBOSSED",
+
+          "extendedStatus": "EMBOSSED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "UNACTIVATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******9501",
+
+      "creationDateTime": "2025-11-27T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-06-10T09:21:05.997313Z",
+
+      "expirationMonthYear": "11/30",
+
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+
+      "isPinSet": false,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "85",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "136074340",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "PIN_IS_NOT_SET",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "103"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "827",
+
+            "codeType": "hotCode",
+
+            "message": "NON-ACTIVATED CARD"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "16",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO"
+      },
+
+      "cardId": "5c6a7239efa88a5db8d43bcc54a34b9e",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA413003350000002620816727441",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "DELIVERED",
+
+          "extendedStatus": "NP2CLIENT"
+        }
+      },
+
+      "cardStatus": {
+        "status": "UNACTIVATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******9504",
+
+      "creationDateTime": "2026-08-03T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-05T12:47:31.158176Z",
+
+      "expirationMonthYear": "08/31",
+
+      "expirationDateTime": "2031-08-31T20:59:59.000000Z",
+
+      "isPinSet": false,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "85",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "142459241",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "PIN_IS_NOT_SET",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "103"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "827",
+
+            "codeType": "hotCode",
+
+            "message": "NON-ACTIVATED CARD"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "16",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO"
+      },
+
+      "cardId": "036503e85f4277cfb40326d5c9dfb351",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CC01_423_1202_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA333003350000002620416384141",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Classic Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/RB_100dniv_card.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******9560",
+
+      "creationDateTime": "2026-05-10T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-06-10T09:21:06.005422Z",
+
+      "expirationMonthYear": "04/31",
+
+      "expirationDateTime": "2031-04-30T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "1202",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "140038860",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "YES",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "6176acc5e6de27345c93a7b822aeabd0",
+
+      "relatedProductId": "5759-45"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_1190_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA313003350000002620612118052",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "VISA Reward Debit",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Classic_414950002_01032019.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414950******9185",
+
+      "creationDateTime": "2022-09-07T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-06-10T09:21:05.995712Z",
+
+      "expirationMonthYear": "09/26",
+
+      "expirationDateTime": "2026-09-30T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "985",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "31751211",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "YES",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "7d943ca821b7828ce2c79f505fa82d99",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_1153_USD",
+
+      "cardIssuingContract": {
+        "iban": "UA613003350000002620715799163",
+
+        "currencies": ["USD"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "VISA Virtual",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Virtual_USD_414950202.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "ANONYMOUS"
+        },
+
+        "fulfillment": {
+          "status": "UNKNOWN",
+
+          "extendedStatus": "UNKNOWN"
+        }
+      },
+
+      "cardStatus": {
+        "status": "SUSPENDED",
+
+        "statusReason": "Card temporary blocked by the customer"
+      },
+
+      "maskedPan": "414950******7042",
+
+      "creationDateTime": "2025-12-17T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-08-05T15:32:31.951638Z",
+
+      "expirationMonthYear": "12/34",
+
+      "expirationDateTime": "2034-12-31T21:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": true,
+
+      "customParameters": {
+        "cardProductToken": "1153",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "136287565",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "blockedBy": "CLIENT",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "116"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "915",
+
+            "codeType": "hotCode",
+
+            "message": "NOT PERMITTED"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NA",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "cc38a5448372949a9f619423e521a317",
+
+      "relatedProductId": "5722-49"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA163003350000002620916682705",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Fishka",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Fishka_411997005_01122020.jpg"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "DELIVERED",
+
+          "extendedStatus": "NP2CLIENT"
+        }
+      },
+
+      "cardStatus": {
+        "status": "SUSPENDED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "411997******1343",
+
+      "creationDateTime": "2026-07-22T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-07-31T15:52:58.435563Z",
+
+      "expirationMonthYear": "07/31",
+
+      "expirationDateTime": "2031-07-31T20:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "85",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "142137945",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "952",
+
+            "codeType": "hotCode",
+
+            "message": "для тестування"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "a725c463ad90344aaecbcd453718a2ac",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA023003350000000262049251389",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Raifcard +",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "HOROBETS OKSANA"
+        },
+
+        "fulfillment": {
+          "status": "ORDERED",
+
+          "extendedStatus": "ORDERED"
+        }
+      },
+
+      "cardStatus": {
+        "status": "ACTIVE",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******0735",
+
+      "creationDateTime": "2025-11-27T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-06-10T09:21:05.996923Z",
+
+      "expirationMonthYear": "11/30",
+
+      "expirationDateTime": "2030-11-30T21:59:59.000000Z",
+
+      "isPinSet": true,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "84",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "136074336",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": ""
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "hotCode"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "0",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO",
+
+        "phoneNumber3ds": "+380997480549"
+      },
+
+      "cardId": "1019a6a4e6efe4aee16c9add3a4ff9af",
+
+      "relatedProductId": "5722-1"
+    },
+
+    {
+      "cardOwner": {
+        "customerId": "12809829"
+      },
+
+      "productCode": "PI_CA02_421_336_UAH",
+
+      "cardIssuingContract": {
+        "iban": "UA163003350000002620916682705",
+
+        "currencies": ["UAH"]
+      },
+
+      "physicalCard": {
+        "design": {
+          "code": "Visa Raifcard +",
+
+          "uri": "https://channels-web.apps.avalaunch.aval/assets/cards/Visa_Gold_414951102_25032024.png"
+        },
+
+        "embossingLines": {
+          "embossingLine1": "OKSANA HOROBETS"
+        },
+
+        "fulfillment": {
+          "status": "DELIVERED",
+
+          "extendedStatus": "NP2CLIENT"
+        }
+      },
+
+      "cardStatus": {
+        "status": "UNACTIVATED",
+
+        "statusReason": ""
+      },
+
+      "maskedPan": "414951******4481",
+
+      "creationDateTime": "2026-07-22T00:00:00.000000Z",
+
+      "lastModifiedDateTime": "2026-07-24T18:47:32.344616Z",
+
+      "expirationMonthYear": "07/31",
+
+      "expirationDateTime": "2031-07-31T20:59:59.000000Z",
+
+      "isPinSet": false,
+
+      "isInstantCard": false,
+
+      "customParameters": {
+        "cardProductToken": "84",
+
+        "cardSystem": "IS_CARD",
+
+        "cardInternalId": "142137944",
+
+        "userToken": "12809829",
+
+        "stateType": "online",
+
+        "extendedState": "PIN_IS_NOT_SET",
+
+        "stopCodes": [
+          {
+            "system": "IS_CARD",
+
+            "code": "103"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "827",
+
+            "codeType": "hotCode",
+
+            "message": "NON-ACTIVATED CARD"
+          },
+
+          {
+            "system": "UPC",
+
+            "code": "16",
+
+            "codeType": "softCode"
+          }
+        ],
+
+        "isNationalCashback": "NO"
+      },
+
+      "cardId": "44845bf1996a847d155f0e87abc1fdb8",
+
+      "relatedProductId": "5722-1"
+    }
+  ],
+
+  "metadata": {
+    "size": 30
+  }
+}
